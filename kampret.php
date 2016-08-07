@@ -44,7 +44,7 @@ class kampret extends \BaseController {
 	 */
 	public function show($name)
 	{
-		return "Aku gila ".$name;
+		return "Aku tidak gila ya mas ".$name;
 		//
 	}
 
